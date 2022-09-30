@@ -10,10 +10,16 @@ export const HeaderStyle = styled.header`
   font-family: sans-serif;
   display:flex;
 
+  .vanessa-logo{
+    width:274px;
+    height:52px;
+  }
 
-  .header{
+  .header-wrapper{
     display:flex;
     justify-content: space-between;
+    width:100%;
+    padding:26px;
   }
   .navbar ul{
     display:flex;
@@ -22,5 +28,9 @@ export const HeaderStyle = styled.header`
 
   li{
     list-style: none;
+    display:flex;
+    align-items: center;
+    gap: 5px;
   }
+
 `;
