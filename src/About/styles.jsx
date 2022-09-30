@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import StyledComponent from 'styled-components'
 
 export const AboutStyle = styled.div`
   font-family: 'Share Tech Mono';

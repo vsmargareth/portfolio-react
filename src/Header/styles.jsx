@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import StyledComponent from "styled-components";
+
 
 export const HeaderStyle = styled.header`
   background-color: #3F3D3D;
