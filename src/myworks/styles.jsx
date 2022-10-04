@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const WorksStyle = styled.div`
   font-family: 'Share Tech Mono';
   margin-left: 40px;
+  width:100%;
 
   .worksTitle{
     display: flex;
