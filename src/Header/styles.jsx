@@ -5,7 +5,7 @@ export const HeaderStyle = styled.header`
   background-color: #3F3D3D;
   color: #ffffff;
   width: 100%;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   height: 100px;
   font-family: sans-serif;
   display:flex;

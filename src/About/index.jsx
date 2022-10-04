@@ -15,7 +15,7 @@ export function About() {
           <h3>Skills</h3>
           <p>Frontend Developer</p>
           <h3>Tools</h3>
-          <p>HTML, CSS, SASS, JavaScript- jquery, bootstrap</p>
+          <p>HTML | CSS | SASS | JavaScript | jquery | bootstrap | React</p>
         </div>
       </div>
 

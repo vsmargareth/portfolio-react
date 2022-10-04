@@ -1,7 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { Header } from './Header/index'
 import { About } from './About'
+import { Header } from './Header/index'
+import { Myworks } from './Myworks'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -9,5 +10,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     {/* <App /> */}
     <Header />
     <About />
+    <Myworks />
   </React.StrictMode>
 )
